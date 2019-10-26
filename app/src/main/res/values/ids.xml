@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvId" type="id" />
+    <item name="etID" type="id" />
+    <item name="etName" type="id" />
+    <item name="etAddress" type="id" />
+    <item name="etPhone1" type="id" />
+    <item name="etPhone2" type="id" />
+    <item name="etPhone3" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="etHobbies" type="id" />
+    <item name="btSimpan" type="id" />
+    <item name="etId" type="id" />
+    <item name="tvItem" type="id" />
+</resources>
